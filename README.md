@@ -61,8 +61,10 @@ Design Tool: Canva
 
 
 💻 5. วิธีการใช้งาน (How to run)
+
 1.ดาวน์โหลดไฟล์ .py
 2.เข้าเว็บไซต์Colap
+
  ...
 รันโปรแกรมผ่าน Colap ด้วย คำสั่งpython main.py
 
