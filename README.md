@@ -24,6 +24,8 @@ Library/Framework: Tkinter
 Design Tool: Canva
 
 📸 4. ตัวอย่างการใช้งาน (Screenshots)
+
+
 <img width="583" height="328" alt="Image" src="https://github.com/user-attachments/assets/bdbf0b8c-2f66-4afb-90f9-40e730ffc4f5" />
 
 <img width="1673" height="426" alt="Image" src="https://github.com/user-attachments/assets/a8528ca5-dcc2-42cd-8ae0-246218fd4a80" />
