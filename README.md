@@ -28,9 +28,36 @@ Design Tool: Canva
 
 <img width="583" height="328" alt="Image" src="https://github.com/user-attachments/assets/bdbf0b8c-2f66-4afb-90f9-40e730ffc4f5" />
 
+
+<img width="1315" height="683" alt="Image" src="https://github.com/user-attachments/assets/831b84af-3911-4eb4-aaee-91267a1265df" />
+
+
+<img width="857" height="610" alt="Image" src="https://github.com/user-attachments/assets/f1f127ae-c406-4b17-acbb-3aa8d5f64054" />
+
+
+<img width="746" height="612" alt="Image" src="https://github.com/user-attachments/assets/8209571c-30d2-4b5f-9aa9-f8494ef017c5" />
+
+
+<img width="784" height="595" alt="Image" src="https://github.com/user-attachments/assets/36f91088-e47e-4534-82e8-c8938e54083b" />
+
+
+<img width="912" height="590" alt="Image" src="https://github.com/user-attachments/assets/822d57ef-cf9d-48a2-b659-be9bbf366fa7" />
+
+
+<img width="1110" height="598" alt="Image" src="https://github.com/user-attachments/assets/52d68a31-8d00-404e-b73b-4b9b3357be20" />
+
+
+<img width="1039" height="626" alt="Image" src="https://github.com/user-attachments/assets/a2100792-c4f2-4b08-8092-f85e6db49ec8" />
+
+
+<img width="439" height="93" alt="Image" src="https://github.com/user-attachments/assets/54dbdf41-7c3f-4104-83a6-0e273adeb829" />
+
+
 <img width="1673" height="426" alt="Image" src="https://github.com/user-attachments/assets/a8528ca5-dcc2-42cd-8ae0-246218fd4a80" />
 
+
 <img width="1612" height="589" alt="Image" src="https://github.com/user-attachments/assets/9e2dc9da-cce8-45d3-9077-70414d291239" />
+
 
 
 💻 5. วิธีการใช้งาน (How to run)
